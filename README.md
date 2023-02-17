@@ -36,6 +36,7 @@ End of the script 200
 ```
 <br>
 In this usecase we have one camera that was offline so it failed with error 500:<br>
+
 ```
 /g/device 200 {'id': '100c96fc'}
 Get Camera RTSP error {'id': '100c96fc'} 500
