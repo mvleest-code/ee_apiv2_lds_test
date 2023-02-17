@@ -8,9 +8,7 @@ Purpose of this script:<br>
 Test Eagle Eye Local Display Station /g/device and /g/device/rtsp api calls:<br>
 <br>
 Result of the script should look something like this;<br>
-<br>
-<br>
-<br>
+
 ```
 /g/device 200 {'id': '100c96fc'}
 Get Camera RTSP error {'id': '100c96fc'} 500
