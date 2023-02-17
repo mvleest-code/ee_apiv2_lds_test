@@ -1,16 +1,16 @@
-EE-LDS-TESTING
-
-ADD USERNAME AND PASSWORD TO RUN
+EE-LDS-TESTING<br>
+<br>
+ADD USERNAME AND PASSWORD TO RUN<br>
 username   = "" <br>
-password   = ""
-
-Purpose of this script:
-Test Eagle Eye Local Display Station /g/device and /g/device/rtsp api calls:
-
-Result of the script should look something like this;
-
-
-
+password   = ""<br>
+<br>
+Purpose of this script:<br>
+Test Eagle Eye Local Display Station /g/device and /g/device/rtsp api calls:<br>
+<br>
+Result of the script should look something like this;<br>
+<br>
+<br>
+<br>
 ```
 /g/device 200 {'id': '100c96fc'}
 Get Camera RTSP error {'id': '100c96fc'} 500
@@ -34,8 +34,8 @@ Get Camera RTSP error {'id': '100c96fc'} 500
 /g/device/rtsp 200 {'id': '100de948'}
 End of the script 200
 ```
-
-In this usecase we have one camera that was offline so it failed with error 500:
+<br>
+In this usecase we have one camera that was offline so it failed with error 500:<br>
 ```
 /g/device 200 {'id': '100c96fc'}
 Get Camera RTSP error {'id': '100c96fc'} 500
