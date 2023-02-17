@@ -1,11 +1,10 @@
-# EE-LDS-TESTING
 EE-LDS-TESTING
 
-# ADD USERNAME AND PASSWORD TO RUN
-username   = ""
+ADD USERNAME AND PASSWORD TO RUN
+username   = "" <br>
 password   = ""
 
-#Purpose of this script:
+Purpose of this script:
 Test Eagle Eye Local Display Station /g/device and /g/device/rtsp api calls:
 
 Result of the script should look something like this;
